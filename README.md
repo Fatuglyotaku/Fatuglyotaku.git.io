@@ -19,7 +19,7 @@
 
 作业3描述 世界地图，包含一个文件以及数据与输出结果。
 
-[作业3链接]()
+[作业3链接](https://github.com/Fatuglyotaku/Fatuglyotaku.git.io/blob/main/%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%BE.zip)
 
 ##4.作业4
 
