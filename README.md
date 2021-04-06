@@ -13,7 +13,7 @@
 
 作业2描述 地理连线图，包含一个文件与输出结果。
 
-[作业2链接]()
+[作业2链接](https://github.com/Fatuglyotaku/Fatuglyotaku.git.io/blob/main/%E5%9C%B0%E7%90%86%E8%BF%9E%E7%BA%BF%E5%9B%BE.zip)
 
 ##3.作业3 
 
