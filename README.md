@@ -4,6 +4,7 @@
 作业1描述：词频统计图，包含柱状图、词云以及关系图。
 
 [作业1链接（1）](https://github.com/Fatuglyotaku/Fatuglyotaku.github.io/blob/main/%E3%80%8A%E8%87%AA%E6%9D%80%E8%AE%BA%E3%80%8B%E5%85%B3%E9%94%AE%E8%AF%8D%E8%AF%8D%E9%A2%91%E7%BB%9F%E8%AE%A1%E5%9B%BE(1).png)
+
 [作业1链接（2）]
 (https://github.com/Fatuglyotaku/Fatuglyotaku.github.io/blob/main/%E3%80%8A%E8%87%AA%E6%9D%80%E8%AE%BA%E3%80%8B%E5%85%B3%E9%94%AE%E8%AF%8D%E8%AF%8D%E9%A2%91%E7%BB%9F%E8%AE%A1%E5%9B%BE(2).html)
 ## 2.作业2
