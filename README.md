@@ -6,6 +6,7 @@
 [作业1链接（1）](https://github.com/Fatuglyotaku/Fatuglyotaku.github.io/blob/main/%E3%80%8A%E8%87%AA%E6%9D%80%E8%AE%BA%E3%80%8B%E5%85%B3%E9%94%AE%E8%AF%8D%E8%AF%8D%E9%A2%91%E7%BB%9F%E8%AE%A1%E5%9B%BE(1).png)
 
 [作业1链接（2)](https://github.com/Fatuglyotaku/Fatuglyotaku.github.io/blob/main/%E3%80%8A%E8%87%AA%E6%9D%80%E8%AE%BA%E3%80%8B%E5%85%B3%E9%94%AE%E8%AF%8D%E8%AF%8D%E9%A2%91%E7%BB%9F%E8%AE%A1%E5%9B%BE(2).html)
+
 [作业1链接（3)](https://github.com/Fatuglyotaku/Fatuglyotaku.github.io/blob/main/%E3%80%8A%E8%87%AA%E6%9D%80%E8%AE%BA%E3%80%8B%E5%85%B3%E9%94%AE%E8%AF%8D%E8%AF%8D%E9%A2%91%E7%BB%9F%E8%AE%A1%E5%9B%BE(3).html)
 ## 2.作业2
 作业2描述：地理连线图，故事背景为小张的美国之旅。
