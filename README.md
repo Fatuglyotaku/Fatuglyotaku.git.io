@@ -19,4 +19,4 @@
 ## 4.作业4
 作业4描述：组合图表，双重柱状图，对比半年以来各国各国新冠肺炎总确诊病例数。
 
-[作业4链接](https://github.com/Fatuglyotaku/Fatuglyotaku.git.io/blob/main/%E7%BB%84%E5%90%88%E5%9B%BE%E8%A1%A8.zip)
+[作业4链接](https://github.com/Fatuglyotaku/Fatuglyotaku.github.io/blob/main/%E7%BB%84%E5%90%88%E5%9B%BE%E8%A1%A8.html)
