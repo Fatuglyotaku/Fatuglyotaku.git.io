@@ -11,7 +11,7 @@
 ## 2.作业2
 作业2描述：地理连线图，故事背景为小张的美国之旅。
 
-[作业2链接](https://github.com/Fatuglyotaku/Fatuglyotaku.git.io/blob/main/%E5%9C%B0%E7%90%86%E8%BF%9E%E7%BA%BF%E5%9B%BE.zip)
+[作业2链接](https://github.com/Fatuglyotaku/Fatuglyotaku.github.io/blob/main/polisci_top10_universities.html)
 ## 3.作业3
 作业3描述：世界地图，故事背景为各国新冠肺炎总确诊病例数。
 
