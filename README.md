@@ -15,7 +15,7 @@
 ## 3.作业3
 作业3描述：世界地图，故事背景为各国新冠肺炎总确诊病例数。
 
-[作业3链接](https://github.com/Fatuglyotaku/Fatuglyotaku.git.io/blob/main/%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%BE.zip)
+[作业3链接](https://github.com/Fatuglyotaku/Fatuglyotaku.github.io/blob/main/%E5%85%A8%E7%90%83%E7%96%AB%E6%83%85%E7%97%85%E4%BE%8B%E6%95%B0%E7%BB%9F%E8%AE%A1%E5%9B%BE_map.html)
 ## 4.作业4
 作业4描述：组合图表，双重柱状图，对比半年以来各国各国新冠肺炎总确诊病例数。
 
