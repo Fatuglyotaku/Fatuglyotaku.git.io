@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Awesome-pyecharts</title>
+            <script type="text/javascript" src="https://assets.pyecharts.org/assets/echarts.min.js"></script>
+        <script type="text/javascript" src="https://assets.pyecharts.org/assets/maps/USA.js"></script>
+
+</head>
+<body>
+    <div id="04479427696e4a8b967fa0393fbe4017" class="chart-container" style="width:900px; height:500px;"></div>
+    <script>
+        var chart_04479427696e4a8b967fa0393fbe4017 = echarts.init(
+            document.getElementById('04479427696e4a8b967fa0393fbe4017'), 'white', {renderer: 'canvas'});
+        var option_04479427696e4a8b967fa0393fbe4017 = {
+    "animation": true,
+    "animationThreshold": 2000,
+    "animationDuration": 1000,
+    "animationEasing": "cubicOut",
+    "animationDelay": 0,
+    "animationDurationUpdate": 300,
+    "animationEasingUpdate": "cubicOut",
+    "animationDelayUpdate": 0,
+    "color": [
+        "#c23531",
+        "#2f4554",
+        "#61a0a8",
+        "#d48265",
+        "#749f83",
+        "#ca8622",
+        "#bda29a",
+        "#6e7074",
+        "#546570",
+        "#c4ccd3",
+        "#f05b72",
+        "#ef5b9c",
+        "#f47920",
+        "#905a3d",
+        "#fab27b",
+        "#2a5caa",
+        "#444693",
+        "#726930",
+        "#b2d235",
+        "#6d8346",
+        "#ac6767",
+        "#1d953f",
+        "#6950a1",
+        "#918597"
+    ],
+    "series": [
+        {
+            "type": "effectScatter",
+            "coordinateSystem": "geo",
+            "showEffectOn": "render",
+            "rippleEffect": {
+                "show": true,
+                "brushType": "stroke",
+                "scale": 2.5,
+                "period": 4
+            },
+            "symbolSize": 12,
+            "data": [
+                {
+                    "name": "Stanford",
+                    "value": [
+                        -122.17,
+                        37.43,
+                        100
+                    ]
+                },
+                {
+                    "name": "Harvard",
+                    "value": [
+                        -71.12,
+                        42.38,
+                        90
+                    ]
+                },
+                {
+                    "name": "Princeton",
+                    "value": [
+                        -74.67,
+                        40.36,
+                        90
+                    ]
+                },
+                {
+                    "name": "U.C. Berkeley",
+                    "value": [
+                        -122.26,
+                        37.88,
+                        80
+                    ]
+                },
+                {
+                    "name": "U.M. Ann Arbor",
+                    "value": [
+                        -83.74,
+                        42.28,
+                        80
+                    ]
+                },
+                {
+                    "name": "Yale",
+                    "value": [
+                        -72.92,
+                        41.32,
+                        70
+                    ]
+                },
+                {
+                    "name": "M.I.T.",
+                    "value": [
+                        -71.1,
+                        42.36,
+                        60
+                    ]
+                },
+                {
+                    "name": "Columbia",
+                    "value": [
+                        -73.96,
+                        40.81,
+                        50
+                    ]
+                },
+                {
+                    "name": "U.C. San Diego",
+                    "value": [
+                        -117.23,
+                        32.88,
+                        50
+                    ]
+                },
+                {
+                    "name": "Duke",
+                    "value": [
+                        -78.94,
+                        36.0,
+                        40
+                    ]
+                },
+                {
+                    "name": "U of Chicago",
+                    "value": [
+                        -87.6,
+                        41.79,
+                        40
+                    ]
+                }
+            ],
+            "label": {
+                "show": false,
+                "position": "top",
+                "margin": 8
+            }
+        },
+        {
+            "type": "lines",
+            "name": "American Airlines",
+            "coordinateSystem": "geo",
+            "zlevel": 3,
+            "progressive": 400,
+            "progressiveThreshold": 3000,
+            "effect": {
+                "show": true,
+                "brushType": "stroke",
+                "scale": 2.5,
+                "period": 4,
+                "color": "white",
+                "symbol": "arrow",
+                "symbolSize": 6
+            },
+            "symbol": [
+                "none",
+                "arrow"
+            ],
+            "polyline": false,
+            "large": false,
+            "largeThreshold": 2000,
+            "symbolSize": 12,
+            "data": [
+                {
+                    "name": "Harvard->M.I.T.",
+                    "coords": [
+                        [
+                            -71.12,
+                            42.38
+                        ],
+                        [
+                            -71.1,
+                            42.36
+                        ]
+                    ]
+                },
+                {
+                    "name": "M.I.T->Yale",
+                    "coords": [
+                        [
+                            -71.1,
+                            42.36
+                        ],
+                        [
+                            -72.92,
+                            41.32
+                        ]
+                    ]
+                },
+                {
+                    "name": "Yale->Columbia",
+                    "coords": [
+                        [
+                            -72.92,
+                            41.32
+                        ],
+                        [
+                            -73.96,
+                            40.81
+                        ]
+                    ]
+                },
+                {
+                    "name": "Columbia->Princeton",
+                    "coords": [
+                        [
+                            -73.96,
+                            40.81
+                        ],
+                        [
+                            -74.67,
+                            40.36
+                        ]
+                    ]
+                },
+                {
+                    "name": "Princeton->Duke",
+                    "coords": [
+                        [
+                            -74.67,
+                            40.36
+                        ],
+                        [
+                            -78.94,
+                            36.0
+                        ]
+                    ]
+                },
+                {
+                    "name": "Duke->U.M. Ann Arbor",
+                    "coords": [
+                        [
+                            -78.94,
+                            36.0
+                        ],
+                        [
+                            -83.74,
+                            42.28
+                        ]
+                    ]
+                },
+                {
+                    "name": "U.M. Ann Arbor->U of Chicago",
+                    "coords": [
+                        [
+                            -83.74,
+                            42.28
+                        ],
+                        [
+                            -87.6,
+                            41.79
+                        ]
+                    ]
+                },
+                {
+                    "name": "U of Chicago->U.C. Berkeley",
+                    "coords": [
+                        [
+                            -87.6,
+                            41.79
+                        ],
+                        [
+                            -122.26,
+                            37.88
+                        ]
+                    ]
+                },
+                {
+                    "name": "U.C. Berkeley->Stanford",
+                    "coords": [
+                        [
+                            -122.26,
+                            37.88
+                        ],
+                        [
+                            -122.17,
+                            37.43
+                        ]
+                    ]
+                },
+                {
+                    "name": "Stanford->U.C. San Diego",
+                    "coords": [
+                        [
+                            -122.17,
+                            37.43
+                        ],
+                        [
+                            -117.23,
+                            32.88
+                        ]
+                    ]
+                }
+            ],
+            "lineStyle": {
+                "show": true,
+                "width": 1,
+                "opacity": 1,
+                "curveness": 0.2,
+                "type": "solid"
+            },
+            "label": {
+                "show": false,
+                "position": "top",
+                "margin": 8
+            },
+            "rippleEffect": {
+                "show": true,
+                "brushType": "stroke",
+                "scale": 2.5,
+                "period": 4
+            }
+        }
+    ],
+    "legend": [
+        {
+            "data": [
+                "",
+                "American Airlines"
+            ],
+            "selected": {
+                "": true,
+                "American Airlines": true
+            },
+            "show": true,
+            "padding": 5,
+            "itemGap": 10,
+            "itemWidth": 25,
+            "itemHeight": 14
+        }
+    ],
+    "tooltip": {
+        "show": true,
+        "trigger": "item",
+        "triggerOn": "mousemove|click",
+        "axisPointer": {
+            "type": "line"
+        },
+        "showContent": true,
+        "alwaysShowContent": false,
+        "showDelay": 0,
+        "hideDelay": 100,
+        "formatter": function (params) {        return params.name + ' : ' + params.value[2];    },
+        "textStyle": {
+            "fontSize": 14
+        },
+        "borderWidth": 0,
+        "padding": 5
+    },
+    "title": [
+        {
+            "text": "\u5c0f\u5f20\u7684\u7f8e\u56fd\u4e4b\u65c5",
+            "padding": 5,
+            "itemGap": 10
+        }
+    ],
+    "visualMap": {
+        "show": true,
+        "type": "continuous",
+        "min": 0,
+        "max": 100,
+        "inRange": {
+            "color": [
+                "#50a3ba",
+                "#eac763",
+                "#d94e5d"
+            ]
+        },
+        "calculable": true,
+        "inverse": false,
+        "splitNumber": 5,
+        "orient": "vertical",
+        "showLabel": true,
+        "itemWidth": 20,
+        "itemHeight": 140,
+        "borderWidth": 0
+    },
+    "geo": {
+        "map": "\u7f8e\u56fd",
+        "roam": true,
+        "aspectScale": 0.75,
+        "nameProperty": "name",
+        "selectedMode": false,
+        "emphasis": {}
+    }
+};
+        chart_04479427696e4a8b967fa0393fbe4017.setOption(option_04479427696e4a8b967fa0393fbe4017);
+    </script>
+</body>
+</html>
