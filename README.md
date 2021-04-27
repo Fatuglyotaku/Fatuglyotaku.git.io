@@ -20,3 +20,17 @@
 作业4描述：组合图表，双重柱状图，对比半年以来各国各国新冠肺炎总确诊病例数。
 
 [作业4链接](https://github.com/Fatuglyotaku/Fatuglyotaku.github.io/blob/main/%E7%BB%84%E5%90%88%E5%9B%BE%E8%A1%A8.html)
+
+# 计算机科学与编程入门课程第三次作业
+# 学号：2000016948   姓名：张维翰
+## 1.作业1
+作业1描述：《高老头》人物“共现”关系图
+[作业1链接（1）](https://github.com/Fatuglyotaku/Fatuglyotaku.github.io/blob/main/%E5%85%B3%E7%B3%BB%E5%9B%BE-%E9%AB%98%E8%80%81%E5%A4%B4%E4%BA%BA%E7%89%A9.html)
+
+## 2.作业2
+作业2描述：论文“图”搜索引擎
+[作业2链接（2）](https://github.com/Fatuglyotaku/Fatuglyotaku.github.io/blob/main/Search%20Engine.html)
+
+## 3.作业3
+作业3描述：网页
+[作业3链接（3）](https://github.com/Fatuglyotaku/Fatuglyotaku.github.io/blob/main/My%20Web%20Page.html)
